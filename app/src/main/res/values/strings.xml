@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mp3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_absave">ABsave</string>
+    <string name="title_activity_ablist">ABlist</string>
+    <string name="title_activity_music_list">MusicList</string>
+    <string name="title_activity_bookmark_list">BookmarkList</string>
+    <string name="title_activity_bookmark_save">BookmarkSave</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+</resources>
